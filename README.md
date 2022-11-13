@@ -1,12 +1,11 @@
 # Handle-conflict-nodejs
-
 This project completes the student tuition payment function
 
 - Type command "npm install" to install all package
 - To start project type "npm start"
 
 Data used in this project
-    - Account
+- Account
         User account 1 :
             username: hd111
             password: nam12345
@@ -15,7 +14,7 @@ Data used in this project
             username: trnnam140
             password: nam11111
 
-    - Tuition information
+- Tuition information
         Student 1
             studentID: 5201478
             tuition fee: 20.000.000
@@ -25,4 +24,3 @@ Data used in this project
             studentID: 51901234
             tuition fee: 20.000.000
             status: tuition has been paid
-
